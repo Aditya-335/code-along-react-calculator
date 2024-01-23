@@ -1,0 +1,29 @@
+.Keypad{
+  margin-left:650px;
+}
+
+body{
+  background: #245443;
+}
+
+button{
+  background:#fff;
+  color: #000;
+  height:80px;
+  width:80px;
+  font-size:20px;
+}
+
+.display{
+  overflow: hidden;
+  height:100px;
+  background:#B6C4B6;
+  width:315px;
+  border:4px solid #000;
+  margin-left:650px;
+  color: #fff;
+}
+
+.equal{
+  width: 160px;
+}
